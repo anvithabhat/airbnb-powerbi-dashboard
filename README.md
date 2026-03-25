@@ -18,6 +18,21 @@ The dashboard provides actionable insights into user engagement patterns, season
 
 ---
 
+## 📂 Project Files
+
+Due to file size limitations, the Power BI file and dataset are hosted externally:
+
+🔗 **Power BI File (.pbix):**
+https://drive.google.com/file/d/10N8qy4Jiqe7o-pGyWBSMWlzpBl2BP53i/view?usp=sharing
+
+🔗 **Dataset (CSV - Listings):**
+https://drive.google.com/file/d/1AsOG2a3-SYhrxYlCjDXGhEmu6mWnxXA0/view?usp=sharing
+
+🔗 **Dataset (CSV - Reviews):**
+https://drive.google.com/file/d/1boEUBLyejoIytJwIGSctQWgxYeh1pgnP/view?usp=sharing
+
+---
+
 ## 📌 Key Features
 
 ### 🔹 Overview Dashboard
@@ -42,6 +57,22 @@ The dashboard provides actionable insights into user engagement patterns, season
 * Insight: ~99% of users leave ≤3 reviews
 * Seasonality analysis using ribbon chart
 * Trust Factor visualization (Host verification & profile completeness)
+
+---
+
+## 📷 Dashboard Preview
+
+### Overview
+![Overview](images/overview.png)
+
+### Ratings - Overall View
+![Ratings Overall](images/ratings_overall.png)
+
+### Ratings - Detailed View (Bookmark)
+![Ratings Detailed](images/ratings_detailed.png)
+
+### Reviews
+![Reviews](images/reviews.png)
 
 ---
 
@@ -78,7 +109,7 @@ The dashboard provides actionable insights into user engagement patterns, season
 
 ## 🚀 How to Use
 
-1. Download the `.pbix` file
+1. Download the `.pbix` file from the link above
 2. Open in Power BI Desktop
 3. Interact with filters, bookmarks, and visuals
 
