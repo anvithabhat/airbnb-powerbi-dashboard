@@ -63,16 +63,16 @@ https://drive.google.com/file/d/1boEUBLyejoIytJwIGSctQWgxYeh1pgnP/view?usp=shari
 ## 📷 Dashboard Preview
 
 ### Overview
-![Overview](images/overview.png)
+![Overview](overview.png)
 
 ### Ratings - Overall View
-![Ratings Overall](images/ratings_overall.png)
+![Ratings Overall](ratings_overall.png)
 
 ### Ratings - Detailed View (Bookmark)
-![Ratings Detailed](images/ratings_detailed.png)
+![Ratings Detailed](ratings_detailed.png)
 
 ### Reviews
-![Reviews](images/reviews.png)
+![Reviews](reviews.png)
 
 ---
 
